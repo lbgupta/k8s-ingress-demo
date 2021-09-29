@@ -1,2 +1,2 @@
 # kubernetes-demos
-Contains hands-on demos on Kubernetes advanced concepts like Ingress, RBAC, Network Policy etc.
+Contains hands-on demo on one of Kubernetes advanced concepts i.e. Ingress.
